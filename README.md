@@ -1,7 +1,6 @@
 # TAREA_TELEMATICA (Auxiliatura LAB-273)
 ## DATOS 
-* **Nombre:** Nataly Adriana Fernandez Ovando 
-* **CI:** 9151558LP 
+* **Nombre:** Nataly Fernandez 
 * **Paralelo:** B (martes de 16 a 18)
 * **Docente:** Lic.Ramiro Gallardo
 ### Nota:
